@@ -24,6 +24,7 @@ $valor = $data->transaction_amount;
 $txid = $data->id;
 
 $txt = '{"txid":"'.$txid.'","qr":"'.$qr_code.'"}';
+ #Retorno em json
 
 return $txt;}
 
@@ -56,4 +57,5 @@ $txid = $data->id;
 
 
 return $status;
+
 }
