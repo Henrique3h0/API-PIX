@@ -4,6 +4,7 @@ Esse codigo foi desenvolvido como um SDK simples, feito para auxiliar quem quise
 
 # REQUISITOS:
 PHP 7.1+
+<br/>
 PHP CURL
 <br/>
 
