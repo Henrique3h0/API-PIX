@@ -19,11 +19,11 @@ UBUNTU SERVER ✅
 
 # LINGUAGENS QUE FORAM IMPLETAMENTADAS A API: (em breve exemplos do repositorio)
 
-PYTHON
+PYTHON✅
 <br/>
-LUA
+LUA✅
 <br/>
-PHP
+PHP✅
 <br/>
-JS
+JS✅
 
